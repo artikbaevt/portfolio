@@ -17,11 +17,11 @@ Excel: Очистка данных, Power Query,Power Pivot, формулы, п�
 ---
 
 ## 🖼️ Визуализация и Скриншоты
-***Анализ выручки***
+***Анализ выручки (SALES)***
 
 <img width="1602" height="637" alt="Страница анализа выручки" src="https://github.com/user-attachments/assets/efba4071-8e29-4475-be65-bd62e88b4eb2" />
 
-***Анализ оттока клиентов***
+***Анализ оттока клиентов (CHURN)***
 
 <img width="1565" height="635" alt="Страница анализа оттока и поступления жалоб" src="https://github.com/user-attachments/assets/ff2b55f2-a276-404b-b778-27b169bd208a" />
 
